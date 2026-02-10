@@ -1,0 +1,14 @@
+byte - min 128
+	max 127
+short - min -32768
+	max 23767
+int - min -2147483648
+	max 2147483647
+long - min -9223372036854775808
+	max 9223372036854775807
+
+
+i want to implement the forgot password system 
+how i want it to work is 
+if a user sends a forgot password message
+then a otp 
