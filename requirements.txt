@@ -1,0 +1,27 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+psycopg2-binary==2.9.9
+openai==1.3.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
+
+
+17
+Quality assurance engineer
+40 to 50 
+Automating quality assurance 
+both
+very often 
+
+18 FOCUS
+It will simplify the process of Quality assurance = Its a time consuming process
+Produce error free documentation reports for QA = Humans tend to make significant/notable errors 
+Read all documents, Regulations & Standards and gives suggestions = This is done by human factor and its often time overwhelming.
+
+20
+My product will help Quality teams spend less time creating documents, leading reduced to errors and delays. Because before this everything must be done manually, which time consuming and tedious for the Person that is doing this, which leads to errors, delays and Work stress 
+
+We develop a system that:
+* interpret drawings, materials, tolerances, and process details to identify what needs to be inspected or tested.
+* generate ready-made quality control procedures, inspection checklists, and testiyng protocols for each new product.
+* built-in rules engine will ensure that all documents match industry standards and compliance requirements.
